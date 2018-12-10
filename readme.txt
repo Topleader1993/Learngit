@@ -10,6 +10,7 @@ welcome to visit !!
 
 
 Creating a new branch is quick in Git !
+Creating a new branch is quick & simple.
 
 
 
