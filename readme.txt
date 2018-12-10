@@ -7,3 +7,15 @@ Hello,everybod !
 This my GitHub !
 
 welcome to visit !!
+
+
+Creating a new branch is quick in Git !
+
+
+
+
+
+
+
+
+
