@@ -20,8 +20,8 @@ Creating a new branch is AND quick simple.!
 Creating a new branch is
  
 
- Branch Managment stragty 
-
+ Branch Managment strategy 
+ Design by Alex
 
 
 
