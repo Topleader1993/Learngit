@@ -12,8 +12,14 @@ welcome to visit !!
 Creating a new branch is quick in Git !
 Creating a new branch is quick & simple.
 
+<<<<<<< HEAD
 Creating a new branch is AND quick simple.!  
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is AND quick simple.! 
+Creating a new branch is quick AND simple.
+
+>>>>>>> feature
 
 
 
